@@ -28,3 +28,4 @@ console.log(friends[3]); // prints Sam
 // we can also use the indexOf() method to find the index at which a given element can be found
 console.log(friends.indexOf('LuRay')); // prints 2
 console.log(friends.indexOf('Sam')); // prints 3
+
